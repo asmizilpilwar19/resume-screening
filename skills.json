@@ -1,0 +1,36 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c++", "c#", "golang",
+    "ruby", "php", "swift", "kotlin", "scala", "rust", "sql", "r programming",
+    "matlab", "perl", "bash", "shell scripting"
+  ],
+  "web": [
+    "html", "css", "react", "angular", "vue", "node.js", "nodejs", "express.js",
+    "django", "flask", "fastapi", "spring boot", "asp.net", "rest api",
+    "graphql", "bootstrap", "tailwind css", "jquery", "next.js"
+  ],
+  "data_ai_ml": [
+    "machine learning", "deep learning", "natural language processing", "nlp",
+    "computer vision", "data analysis", "data science", "pandas", "numpy",
+    "scikit-learn", "tensorflow", "pytorch", "keras", "nltk", "spacy",
+    "opencv", "statistics", "data visualization", "tableau", "power bi",
+    "matplotlib", "seaborn", "feature engineering", "neural networks"
+  ],
+  "databases": [
+    "mysql", "postgresql", "mongodb", "sqlite", "oracle", "redis",
+    "elasticsearch", "firebase", "cassandra", "dynamodb"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "google cloud platform", "gcp", "docker", "kubernetes",
+    "jenkins", "ci/cd", "git", "github", "gitlab", "terraform", "linux",
+    "devops", "microservices"
+  ],
+  "tools": [
+    "jira", "confluence", "excel", "postman", "figma", "jupyter notebook",
+    "vs code", "agile", "scrum"
+  ],
+  "soft_skills": [
+    "communication", "teamwork", "leadership", "problem solving",
+    "time management", "critical thinking", "collaboration", "adaptability"
+  ]
+}

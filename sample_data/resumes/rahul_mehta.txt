@@ -1,0 +1,25 @@
+Rahul Mehta
+Java Backend Developer
+rahul.mehta@example.com | +91 91234 56789
+
+Summary
+Backend developer with 4 years of experience in Java and Spring Boot,
+with some exposure to Python and cloud deployment.
+
+Skills
+Java, Spring Boot, REST API, SQL, MySQL, AWS, Docker, Git, Jenkins,
+teamwork, problem solving
+
+Education
+Bachelor of Technology in Information Technology, Pune University, 2019
+
+Experience
+Backend Developer, Nimbus Systems (2019 - Present)
+- Built REST APIs using Java and Spring Boot for e-commerce platforms
+- Wrote SQL queries and managed MySQL databases
+- Deployed services on AWS using Docker and Jenkins pipelines
+- Worked with Git for version control and participated in code reviews
+
+Junior Developer, CodeForge Solutions (2018 - 2019)
+- Assisted in building internal tools using Java
+- Wrote basic Python scripts for data cleanup tasks

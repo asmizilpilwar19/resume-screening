@@ -1,0 +1,39 @@
+CANDIDATE SUMMARY REPORT
+============================================================
+
+Rank #1: Asha Rao  (asha_rao.txt)
+Match score: 52.4%
+Years of experience (estimated): 3
+Degree(s): Bachelor
+Top skills: agile, aws, ci/cd, communication, data analysis, django, docker, flask, git, microservices, pandas, postgresql, python, rest api, scrum, sql, teamwork
+Education section (raw): Bachelor of Science in Computer Science, Anna University, 2021
+
+------------------------------------------------------------
+
+Rank #2: Rahul Mehta  (rahul_mehta.txt)
+Match score: 26.4%
+Years of experience (estimated): 4
+Degree(s): Bachelor
+Top skills: aws, docker, git, java, jenkins, mysql, problem solving, python, rest api, spring boot, sql, teamwork
+Education section (raw): Bachelor of Technology in Information Technology, Pune University, 2019
+
+------------------------------------------------------------
+
+Rank #3: Karan Verma  (karan_verma.pdf)
+Match score: 24.9%
+Years of experience (estimated): 2
+Degree(s): Bachelor
+Top skills: communication, css, django, docker, git, html, mongodb, problem solving, python, react, rest api, sql
+Education section (raw): Bachelor of Engineering in Computer Science, VIT University, 2022
+
+------------------------------------------------------------
+
+Rank #4: Priya Sharma  (priya_sharma.txt)
+Match score: 6.2%
+Years of experience (estimated): 5
+Degree(s): Bachelor
+Top skills: communication, excel, leadership, time management
+Education section (raw): Bachelor of Arts in Mass Communication, Delhi University, 2017
+
+------------------------------------------------------------
+

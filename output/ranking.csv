@@ -1,0 +1,5 @@
+rank,name,file,match_score_percent,years_experience,degrees,top_skills
+1,Asha Rao,asha_rao.txt,52.4,3,Bachelor,agile; aws; ci/cd; communication; data analysis; django; docker; flask; git; microservices; pandas; postgresql; python; rest api; scrum; sql; teamwork
+2,Rahul Mehta,rahul_mehta.txt,26.4,4,Bachelor,aws; docker; git; java; jenkins; mysql; problem solving; python; rest api; spring boot; sql; teamwork
+3,Karan Verma,karan_verma.pdf,24.9,2,Bachelor,communication; css; django; docker; git; html; mongodb; problem solving; python; react; rest api; sql
+4,Priya Sharma,priya_sharma.txt,6.2,5,Bachelor,communication; excel; leadership; time management

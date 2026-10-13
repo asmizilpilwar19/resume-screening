@@ -1,0 +1,27 @@
+Asha Rao
+Backend Software Engineer
+asha.rao@example.com | +91 98765 43210
+
+Summary
+Backend developer with 3 years of experience building REST APIs and
+backend services in Python. Comfortable working in agile teams and
+deploying services to the cloud.
+
+Skills
+Python, Django, Flask, REST API, SQL, PostgreSQL, Docker, AWS, Git,
+pandas, unit testing, agile, scrum, communication, teamwork
+
+Education
+Bachelor of Science in Computer Science, Anna University, 2021
+
+Experience
+Backend Developer, Brightline Technologies (2021 - Present)
+- Built and maintained REST APIs using Python and Django for a SaaS product
+- Wrote SQL queries and managed a PostgreSQL database for core services
+- Containerized services with Docker and deployed them on AWS
+- Collaborated with frontend engineers and product managers in a scrum team
+- Set up CI/CD pipelines and used Git for version control
+
+Software Engineering Intern, DataWorks Inc (2020 - 2021)
+- Developed small Flask microservices for internal tooling
+- Used pandas for basic data analysis and reporting

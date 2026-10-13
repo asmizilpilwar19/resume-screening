@@ -1,0 +1,27 @@
+Job Title: Backend Python Developer
+
+About the Role
+We are looking for a Backend Python Developer to join our engineering team.
+You will design, build, and maintain REST APIs and backend services that
+power our product.
+
+Responsibilities
+- Develop and maintain backend services using Python and Django or Flask
+- Design and optimize REST APIs
+- Write efficient SQL queries and manage PostgreSQL databases
+- Deploy and monitor services using Docker and AWS
+- Collaborate with frontend engineers and product managers in an agile team
+- Write unit tests and participate in code reviews using Git
+
+Requirements
+- Bachelor's degree in Computer Science or a related field
+- 2+ years of experience building backend applications in Python
+- Strong experience with Django or Flask, REST API design, and SQL
+- Familiarity with Docker, AWS, and CI/CD pipelines
+- Experience with Git and collaborative development workflows
+- Good communication and teamwork skills, comfortable in an agile/scrum team
+
+Nice to Have
+- Experience with MongoDB or Redis
+- Exposure to data analysis with pandas
+- Familiarity with Kubernetes
